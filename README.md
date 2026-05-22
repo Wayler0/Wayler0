@@ -1,38 +1,133 @@
-# Hi, I'm Solomon Njenga 🛡️
+# Hey, I’m Solomon Njenga
 
-An aspiring Cybersecurity professional focused on understanding how systems break, how they are defended, and how to automate security at scale. I prefer reading packet captures and system logs over building websites.
-
----
-
-## 🛠️ Tech Stack & Tooling
-
-### 🛡️ Defensive & Analysis
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-000000?style=flat-square)
-![Analysis](https://img.shields.io/badge/Analysis-Wireshark%20%7C%20YARA-blue?style=flat-square)
-![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20Server-orange?style=flat-square)
-
-### 💻 Scripting & Automation
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Bash%20%7C%20PowerShell-blueviolet?style=flat-square)
-![Infra](https://img.shields.io/badge/Infrastructure-Docker%20%7C%20Ansible-white?style=flat-square&logo=docker)
-
-### 🎯 Certifications & Learning Path
-* **Active:** CompTIA Security+ / TryHackMe / HackTheBox
-* **Targeting:** BTL1 (Blue Team Level 1) / OSCP
+> Computer Science Student
+> Cybersecurity Enthusiast
+> Linux & Networking Explorer
+> Future Red Team Operator
 
 ---
 
-## 🏗️ Featured Security Projects
+ #About Me
 
-* **[Project 1 Name](link-to-repo):** Brief 1-sentence description (e.g., A Python-based multi-threaded port scanner and banner grabber).
-* **[Project 2 Name](link-to-repo):** Brief 1-sentence description (e.g., Active Directory Home Lab documentation and Splunk logging analysis).
+I enjoy understanding how systems work beneath the surface — how they communicate, how they fail, and how they can be secured.
+
+Most of my time goes into cybersecurity, Linux, networking, investigations, and building technical skills step by step toward offensive security.
+
+I prefer:
+
+- Reading packet captures over social media feeds
+- Solving technical problems over memorizing theory
+- Understanding systems deeply instead of using them blindly
 
 ---
 
-## 🎯 Current Focus
-* Deepening my knowledge of Windows Internals and Active Directory attack vectors.
-* Writing detection rules (Sigma/YARA) for common malware behaviors.
-* Analyzing packet captures (PCAPs) to detect network anomalies.
+⚔️ Current Focus
+
+- 🔐 Offensive Security Fundamentals
+- 🐧 Linux Administration & Hardening
+- 🌐 Networking & Traffic Analysis
+- 🕵️ OSINT & Investigations
+- 🧪 Active Directory Labs
+- ⚡ Security Automation with Python & Bash
 
 ---
 
-📬 **Connect with me:** [LinkedIn Link](https.linkedin.me/in/njenga-solomon) | [TryHackMe].()
+🛠️ Tech Stack & Tooling
+
+🛡️ Security & Analysis
+
+"SIEM" (https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-black?style=for-the-badge)
+"Analysis" (https://img.shields.io/badge/Analysis-Wireshark%20%7C%20YARA-blue?style=for-the-badge)
+"OS" (https://img.shields.io/badge/OS-Linux%20%7C%20Windows-orange?style=for-the-badge)
+
+💻 Scripting & Automation
+
+"Python" (https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
+"Bash" (https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
+"PowerShell" (https://img.shields.io/badge/PowerShell-Automation-blue?style=for-the-badge&logo=powershell)
+
+⚔️ Security Tooling
+
+"Tools" (https://img.shields.io/badge/Tools-Nmap%20%7C%20Burp%20%7C%20Metasploit-darkred?style=for-the-badge)
+"Infra" (https://img.shields.io/badge/Infrastructure-Docker%20%7C%20VirtualBox-white?style=for-the-badge&logo=docker)
+
+---
+
+🏗️ Featured Projects
+
+🔍 Security & Networking Toolkit
+
+Scripts and utilities for enumeration, scanning, and traffic analysis.
+
+🧪 Home Lab Environment
+
+Virtualized lab for practicing Active Directory attacks, detections, and system hardening.
+
+⚡ Automation Scripts
+
+Python and Bash scripts for automating repetitive security and administration tasks.
+
+---
+
+📚 Currently Learning
+
+Active Directory
+Privilege Escalation
+Web Exploitation
+Detection Engineering
+Malware Analysis
+Cloud Security
+
+---
+
+🎯 Goals
+
+- Build useful security tools
+- Improve offensive security skills
+- Contribute to open-source projects
+- Earn industry certifications
+- Transition into professional red teaming
+
+---
+
+📈 GitHub Stats
+
+"GitHub stats" (https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight)
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight)
+
+---
+
+🌐 Connect With Me
+
+- [GitHub](https://github.com/Wayler0)
+- [LinkedIn](https://www.linkedin.com/in/njenga-solomon)
+
+---
+
+☕
+
+«“Understand the system deeply enough to build it, break it, and defend it.”»
+
+---
+
+class Human:
+    def __init__(self):
+        self.name = "Solomon Njenga"
+        self.role = "Cybersecurity Student"
+        self.learning = [
+            "Linux",
+            "Networking",
+            "OSINT",
+            "Red Teaming"
+        ]
+
+    def current_status(self):
+        return "Learning. Building. Improving."
+
+me = Human()
+print(me.current_status())
+
+---
+
+⭐ Always curious. Always learning.
