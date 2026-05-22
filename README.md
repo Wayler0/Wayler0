@@ -1,8 +1,11 @@
 # Hey, I’m Solomon Njenga
 
 > Computer Science Student
+
 > Cybersecurity Enthusiast
+
 > Linux & Networking Explorer
+
 > Future Red Team Operator
 
 ---
