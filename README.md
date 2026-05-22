@@ -1,4 +1,4 @@
-👋 Hey, I’m Solomon Njenga
+#👋 Hey, I’m Solomon Njenga
 
 > Computer Science Student
 > Cybersecurity Enthusiast
