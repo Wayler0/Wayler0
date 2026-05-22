@@ -128,5 +128,6 @@ greet("World")
 ```
 
 ```bash
+# Save the Python snippet above to a local file named script.py, then run:
 python3 script.py
 ```
