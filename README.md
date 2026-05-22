@@ -35,4 +35,4 @@ An aspiring Cybersecurity professional focused on understanding how systems brea
 
 ---
 
-📬 **Connect with me:** [LinkedIn Link].(https.linkedin.me/in/njenga-solomon) | [TryHackMe].()
+📬 **Connect with me:** [LinkedIn Link](https.linkedin.me/in/njenga-solomon) | [TryHackMe].()
