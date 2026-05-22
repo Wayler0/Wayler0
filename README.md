@@ -36,20 +36,25 @@ I prefer:
 
 🛡️ Security & Analysis
 
-"SIEM" (https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-black?style=for-the-badge)
-"Analysis" (https://img.shields.io/badge/Analysis-Wireshark%20%7C%20YARA-blue?style=for-the-badge)
-"OS" (https://img.shields.io/badge/OS-Linux%20%7C%20Windows-orange?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-black?style=for-the-badge) 
+
+![Analysis](https://img.shields.io/badge/Analysis-Wireshark%20%7C%20YARA-blue?style=for-the-badge)
+
+![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-orange?style=for-the-badge)
 
 💻 Scripting & Automation
 
-"Python" (https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
-"Bash" (https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
-"PowerShell" (https://img.shields.io/badge/PowerShell-Automation-blue?style=for-the-badge&logo=powershell)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
+
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?style=for-the-badge&logo=powershell)
 
 ⚔️ Security Tooling
 
-"Tools" (https://img.shields.io/badge/Tools-Nmap%20%7C%20Burp%20%7C%20Metasploit-darkred?style=for-the-badge)
-"Infra" (https://img.shields.io/badge/Infrastructure-Docker%20%7C%20VirtualBox-white?style=for-the-badge&logo=docker)
+![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20Burp%20%7C%20Metasploit-darkred?style=for-the-badge)
+
+![Infra](https://img.shields.io/badge/Infrastructure-Docker%20%7C%20VirtualBox-white?style=for-the-badge&logo=docker)
 
 ---
 
@@ -92,9 +97,9 @@ Cloud Security
 
 📈 GitHub Stats
 
-"GitHub stats" (https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight)
 
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight)
 
 ---
 
@@ -108,26 +113,5 @@ Cloud Security
 ☕
 
 «“Understand the system deeply enough to build it, break it, and defend it.”»
-
----
-
-class Human:
-    def __init__(self):
-        self.name = "Solomon Njenga"
-        self.role = "Cybersecurity Student"
-        self.learning = [
-            "Linux",
-            "Networking",
-            "OSINT",
-            "Red Teaming"
-        ]
-
-    def current_status(self):
-        return "Learning. Building. Improving."
-
-me = Human()
-print(me.current_status())
-
----
 
 ⭐ Always curious. Always learning.
