@@ -7,7 +7,7 @@
 
 ---
 
- #About Me
+## About Me
 
 I enjoy understanding how systems work beneath the surface — how they communicate, how they fail, and how they can be secured.
 
@@ -115,3 +115,18 @@ Cloud Security
 «“Understand the system deeply enough to build it, break it, and defend it.”»
 
 ⭐ Always curious. Always learning.
+
+---
+
+## Python Example (in README)
+
+```python
+def greet(name: str) -> None:
+    print(f"Hello, {name}!")
+
+greet("World")
+```
+
+```bash
+python3 script.py
+```
