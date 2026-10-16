@@ -1,6 +1,6 @@
 # Hey, I'm Solomon Njenga 👋
 
-**IT Systems & Security · Founder of [WaylerTech](https://wayler.tech) · Computer Science @ Tharaka University**
+**IT Systems & Security · Founder of [WaylerTech](https://wayler.tech) · Final-year CS @ Tharaka University (graduating 2027)**
 
 I keep real systems working and trustworthy for the people who depend on them. I fix them, build them and secure them.
 
