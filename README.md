@@ -1,120 +1,82 @@
-# Hey, I’m Solomon Njenga
+# Hey, I'm Solomon Njenga 👋
 
-> Computer Science Student
+**IT Systems & Security · Founder of [WaylerTech](https://wayler.tech) · Computer Science @ Tharaka University**
 
-> Cybersecurity Enthusiast
+I keep real systems working and trustworthy for the people who depend on them. I fix them, build them and secure them.
 
-> Linux & Networking Explorer
-
-> Future Red Team Operator
-
----
-
-## About Me
-
-I enjoy understanding how systems work beneath the surface — how they communicate, how they fail, and how they can be secured.
-
-Most of my time goes into cybersecurity, Linux, networking, investigations, and building technical skills step by step toward offensive security.
-
-I prefer:
+I enjoy understanding how systems work beneath the surface: how they communicate, how they fail and how they can be secured. I prefer:
 
 - Reading packet captures over social media feeds
-- Solving technical problems over memorizing theory
+- Solving real problems over memorising theory
 - Understanding systems deeply instead of using them blindly
 
 ---
 
-⚔️ Current Focus
+## 🔧 What I've been doing
 
-- 🔐 Offensive Security Fundamentals
-- 🐧 Linux Administration & Hardening
-- 🌐 Networking & Traffic Analysis
-- 🕵️ OSINT & Investigations
-- 🧪 Active Directory Labs
-- ⚡ Security Automation with Python & Bash
+- **ICT Intern at Gertrude's Children's Hospital, Nairobi (May–Aug 2026).** I migrated clinical workstations to Windows 11, administered Active Directory accounts, ran Cat6 cabling for VoIP phones, set up the endpoints for a telemedicine link to Lamu, and applied Data Protection Act controls on machines that handle patient data.
+- **Founder of [WaylerTech](https://wayler.tech).** I run a small IT business doing repairs, Linux installs, networking and custom bootable drives. I also built its platform myself.
+- **ISACA Tharaka University Student Group.** Active member and social media manager, learning the governance and digital-trust side of security.
 
 ---
 
-🛠️ Tech Stack & Tooling
+## 🏗️ Projects
 
-🛡️ Security & Analysis
+### [WaylerTech platform](https://wayler.tech)
+The full business system behind my IT company: quote requests with photo uploads, a customer job tracker, orders, verified reviews and a role-based admin CMS. I built security in from the start:
 
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-black?style=for-the-badge) 
+- owner / admin / editor roles, enforced with Postgres row-level security
+- an audit log on every change
+- rate limiting with salted IP hashes, so no raw IPs are stored
+- private uploads through one-time signed URLs
+- an anonymous feedback form that really is anonymous
 
-![Analysis](https://img.shields.io/badge/Analysis-Wireshark%20%7C%20YARA-blue?style=for-the-badge)
+Self-hosted on a Linux server behind Caddy (systemd, automatic HTTPS).
 
-![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-orange?style=for-the-badge)
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind` `Linux` `Caddy`
 
-💻 Scripting & Automation
+### [Campus E-Voting System](https://evoting-system-nine.vercel.app/)
+A prototype voting platform with role-based access and real-time tallying, built to cut paper use and manual counting errors on campus.
 
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
+`JavaScript` `Node.js` `HTML/CSS`
 
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
+### [Vee Beauty World](https://vee-beauty-world.vercel.app/)
+A responsive website template for salons and other small businesses.
 
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?style=for-the-badge&logo=powershell)
-
-⚔️ Security Tooling
-
-![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20Burp%20%7C%20Metasploit-darkred?style=for-the-badge)
-
-![Infra](https://img.shields.io/badge/Infrastructure-Docker%20%7C%20VirtualBox-white?style=for-the-badge&logo=docker)
-
----
-
-🏗️ Featured Projects
-
-🔍 Security & Networking Toolkit
-
-Scripts and utilities for enumeration, scanning, and traffic analysis.
-
-🧪 Home Lab Environment
-
-Virtualized lab for practicing Active Directory attacks, detections, and system hardening.
-
-⚡ Automation Scripts
-
-Python and Bash scripts for automating repetitive security and administration tasks.
+`React` `CSS`
 
 ---
 
-📚 Currently Learning
+## 🛠️ What I work with
 
-Active Directory
-Privilege Escalation
-Web Exploitation
-Detection Engineering
-Malware Analysis
-Cloud Security
+**Systems:** Windows 10/11 deployment · Active Directory · Linux administration · hardware diagnostics & repair
 
----
+**Networking:** Cat6 / T568B cabling · VoIP · TCP/IP troubleshooting · Wireshark
 
-🎯 Goals
+**Security:** endpoint hardening · access control · secure web app design (RLS, RBAC, audit logging, rate limiting)
 
-- Build useful security tools
-- Improve offensive security skills
-- Contribute to open-source projects
-- Earn industry certifications
-- Transition into professional red teaming
+**Building:** TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · Bash · Python · Git
 
 ---
 
-📈 GitHub Stats
+## 🧪 Currently exploring
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
-🌐 Connect With Me
-
-- [GitHub](https://github.com/Wayler0)
-- [LinkedIn](https://www.linkedin.com/in/njenga-solomon)
+- Active Directory: how it's attacked, and how those attacks are detected
+- Linux hardening
+- Detection engineering
+- Security automation with Python and Bash
 
 ---
 
-☕
+## 📈 GitHub stats
 
-«“Understand the system deeply enough to build it, break it, and defend it.”»
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-⭐ Always curious. Always learning.
+---
+
+## 🌐 Find me
+
+[Website](https://solomon.wayler.tech) · [WaylerTech](https://wayler.tech) · [LinkedIn](https://www.linkedin.com/in/njenga-solomon) · [Email](mailto:ict.solomonk@gmail.com)
+
+> *"Understand the system deeply enough to build it, break it, and defend it."*
