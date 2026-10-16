@@ -77,6 +77,6 @@ A responsive website template for salons and other small businesses.
 
 ## 🌐 Find me
 
-[Website](https://solomon.wayler.tech) · [WaylerTech](https://wayler.tech) · [LinkedIn](https://www.linkedin.com/in/njenga-solomon) · [Email](mailto:ict.solomonk@gmail.com)
+[Website](https://solomon.wayler.tech) · [WaylerTech](https://wayler.tech) · [LinkedIn](https://www.linkedin.com/in/njenga-solomon) · [Email](mailto:njengasolomon10@gmail.com)
 
 > *"Understand the system deeply enough to build it, break it, and defend it."*
