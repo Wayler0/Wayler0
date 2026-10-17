@@ -1,3 +1,4 @@
+<!-- Facts here mirror https://solomon.wayler.tech (the source of truth). See AGENTS.md before editing. -->
 # Hey, I'm Solomon Njenga 👋
 
 **IT Systems & Security · Founder of [WaylerTech](https://wayler.tech) · Final-year CS @ Tharaka University (graduating 2027)**
