@@ -15,9 +15,13 @@ I enjoy understanding how systems work beneath the surface: how they communicate
 
 ## 🔧 What I've been doing
 
-- **ICT Intern at Gertrude's Children's Hospital, Nairobi (May–Aug 2026).** I migrated clinical workstations to Windows 11, administered Active Directory accounts, ran Cat6 cabling for VoIP phones, set up the endpoints for a telemedicine link to Lamu, and applied Data Protection Act controls on machines that handle patient data.
-- **Founder of [WaylerTech](https://wayler.tech).** I run a small IT business doing repairs, Linux installs, networking and custom bootable drives. I also built its platform myself.
-- **ISACA Tharaka University Student Group.** Active member and social media manager, learning the governance and digital-trust side of security.
+- **ICT Intern at Gertrude's Children's Hospital, Nairobi (May–Aug 2026).** I migrated ~30 clinical workstations to Windows 11, administered Active Directory accounts, terminated ~15 Cat6 runs for VoIP phones, set up the endpoints for the DaktariSmart telemedicine link to Lamu, Samburu, Baringo and other remote areas, and applied Data Protection Act 2019 controls on machines that handle patient data.
+- **Founder of [WaylerTech](https://wayler.tech) (since Jul 2024).** I run a small IT business doing repairs, Linux installs, networking and custom bootable drives. I built its platform myself and write the WaylerLab repair guides.
+- **ISACA Tharaka University Student Group.** Social media manager since Sep 2025. I facilitated a live Linux command-line CTF for 50+ students at the overnight HackNight, and gave talks, including "Digital Forensics – The Cyber Detective".
+- **Hackathons.** 3rd place at the Tharaka University Cybersecurity & AI Hackathon (Feb 2026), with a team project on detecting AI-generated work, deepfakes and email spoofing. I also built and pitched prototypes at BushHack (Mt Kenya Innovation Week) and the AYSC 2026 Climate Hackathon.
+- **IEEE student member.** I led registration and guest arrival (16 volunteers) at the launch of the Tharaka University IEEE Student Branch in Oct 2026.
+
+Every one of these has a dated record with photos at [solomon.wayler.tech/records](https://solomon.wayler.tech/records).
 
 ---
 
@@ -54,7 +58,7 @@ A responsive website template for salons and other small businesses.
 
 **Networking:** Cat6 / T568B cabling · VoIP · TCP/IP troubleshooting · Wireshark
 
-**Security:** endpoint hardening · access control · secure web app design (RLS, RBAC, audit logging, rate limiting)
+**Security:** endpoint hardening · access control · Data Protection Act 2019 controls · secure web app design (RLS, RBAC, audit logging, rate limiting) · digital forensics basics
 
 **Building:** TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · Bash · Python · Git
 
@@ -66,13 +70,6 @@ A responsive website template for salons and other small businesses.
 - Linux hardening
 - Detection engineering
 - Security automation with Python and Bash
-
----
-
-## 📈 GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayler0&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayler0&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
